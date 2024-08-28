@@ -1,13 +1,13 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Estudando Engenharia de Dados novas tecnologias para criar soluções de dados inovadoras.
-- 🎓 Estudando **Analista de Desenvolvimento de Sistemas** no <a href="https://www.usjt.br" target="_blank">Anhanguera</a>.
+- 🎓 Estudando **Analista de Desenvolvimento de Sistemas** no <a href="https://www.usjt.br" target="_blank">Universidade São Judas</a>.
 - 🌱 Aprendendo mais sobre **Python, Spark, Docker, AWS e SQL**......
 <hr>
 <div style="display: inline">
   <a href="https://github.com/kakusstn">
     <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=kakusstn&show_icons=true&theme=radical" />
-    <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamekakusstn&layout=compact&theme=radical"" />
+    <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamekakusstn&layout=compact&theme=radical" />
 </div>
 <h3>Minhas Skills</h3>
 
@@ -36,7 +36,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
-g
+
 <hr>
 
   <h3>Onde me encontrar</h3>
@@ -44,7 +44,7 @@ g
   
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauã-sousa/)](https://www.linkedin.com/in/kauã-sousa)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaua_sousa_s@outlook.com)](mailto:kaua_sousa_s@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/August1312?label=follow&style=social)](https://github.com/August1312)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![GitHub](https://img.shields.io/github/followers/kakusstn?label=follow&style=social)](https://github.com/kakusstn)
+
 
 <3
